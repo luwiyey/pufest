@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-stage",
+      "description": "A wide shot of a music festival stage with vibrant lights.",
+      "imageUrl": "https://images.unsplash.com/photo-1624929303661-22c5bce0169b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdGFnZSUyMGxpZ2h0c3xlbnwwfHx8fDE3NjE2MzkzMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stage lights"
+    },
+    {
+      "id": "aftermovie-thumb",
+      "description": "Thumbnail for the event aftermovie, showing a cheering crowd.",
+      "imageUrl": "https://images.unsplash.com/photo-1603190287605-e6ade32fa852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaGVlcmluZyUyMGNyb3dkfGVufDB8fHx8MTc2MTcxODE3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cheering crowd"
+    },
+    {
+      "id": "gallery-1",
+      "description": "A captured moment from the PU Fest.",
+      "imageUrl": "/captured1.jpg",
+      "imageHint": "gallery crowd"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Another captured moment from the PU Fest.",
+      "imageUrl": "/captured2.jpg",
+      "imageHint": "gallery performance"
+    },
+    {
+      "id": "gallery-3",
+      "description": "A DJ performing for a crowd.",
+      "imageUrl": "/captured3.jpg",
+      "imageHint": "gallery dj"
+    },
+    {
+      "id": "gallery-4",
+      "description": "The audience enjoying the show.",
+      "imageUrl": "https://images.unsplash.com/photo-1627573494274-2bf47c992bcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZXZlbnQlMjBjcm93ZCUyMGdhbGxlcnl8ZW58MHx8fHwxNzYxNzE4MTcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "event crowd gallery"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Close up on a guitar player's solo.",
+      "imageUrl": "https://images.unsplash.com/photo-1727035305460-4a6993956010?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxndWl0YXIlMjBzb2xvJTIwZ2FsbGVyeXxlbnwwfHx8fDE3NjE3MTgxNzB8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "guitar solo gallery"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Food stalls at the event.",
+      "imageUrl": "https://images.unsplash.com/photo-1707635569223-c759b3b0501b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmb29kJTIwc3RhbGxzJTIwZ2FsbGVyeXxlbnwwfHx8fDE3NjE3MTgxNzB8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "food stalls gallery"
+    },
+    {
+      "id": "talent-gloc-9",
+      "description": "Photograph of the rapper Gloc-9 performing on stage.",
+      "imageUrl": "https://liftedasia.com/assets/content_images/gloc-660x440_2022-04-08-042613.jpg",
+      "imageHint": "rapper performing"
+    },
+    {
+      "id": "talent-ixia",
+      "description": "Portrait of the DJ Ixia Española.",
+      "imageUrl": "https://scontent.fmnl7-2.fna.fbcdn.net/v/t39.30808-6/497800143_2669797153211114_5191670973477622604_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHl2IQVmn-NFTTBGYxPDE9hPjT4_dYyd5k-NPj91jJ3mbfQ3CEwt9FsGqE5rtC5khvcfAJgaHPkXvHPfB2tqRv2&_nc_ohc=orQCT1_MDsMQ7kNvwHnCnLv&_nc_oc=AdkLtwH2jU5madQqoLkF3EcEOgA8O97S_2V8r7Dsg0ukIRveYhfPb9R6fkKfcEjrjSI&_nc_zt=23&_nc_ht=scontent.fmnl7-2.fna&_nc_gid=JKAnVckPHI3O09-vH1b70w&oh=00_AfdLoIB0t_qYueP_3-LUQxdSI0BUJ9-3JDikNiThcQl4IQ&oe=690A4B47",
+      "imageHint": "female dj"
+    },
+    {
+      "id": "talent-zepultura",
+      "description": "Photo of the metal band Zepultura.",
+      "imageUrl": "https://scontent.fmnl7-1.fna.fbcdn.net/v/t39.30808-6/465915085_122095394774616960_4801938919449743771_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeG8W6szckTs1LBmEdaQbhMzC6rokysRNacLquiTKxE1pwZWG8gmnWsivEM4mk1ZLEz0wGsTmMbrSdAL1cR6MuDR&_nc_ohc=DoHLPv7ZcS0Q7kNvwEVcRVT&_nc_oc=AdmXIlP_iOBXr-bx1yQZkku8oeF8UngCBwA1R7Yvtr5GzeZESxFPD8u2HtJD1lAuACI&_nc_zt=23&_nc_ht=scontent.fmnl7-1.fna&_nc_gid=hRZD1j0MagyrRtzvaUBSGA&oh=00_AfdCNRJGgcISfUhFPsGMJV9np8-FylXr0_56b6cTVTBU4A&oe=690A5CB9",
+      "imageHint": "metal band"
+    },
+    {
+      "id": "pu-building",
+      "description": "The main building of Panpacific University.",
+      "imageUrl": "https://scontent.fmnl7-2.fna.fbcdn.net/v/t39.30808-6/326254417_1009090793296847_8722878740105043299_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGBry7dTKErfGv13UhyKo8eDnq3CNKa9U0OercI0pr1TQxv9ME3cZJCy8mBtv-hSOlojqckwcVEruvLBI-PAA2T&_nc_ohc=sw1QB1X52oAQ7kNvwFVmzAo&_nc_oc=AdlnxgjHfTvi6RmlCG55UYLQZR-4J6cUIOx45QsgZMcr_SCaCv11ZQn_Ycr4aZTwF9o&_nc_zt=23&_nc_ht=scontent.fmnl7-2.fna&_nc_gid=0dv485Q-tL03j2qKUtLyKQ&oh=00_AfeHH14QBK3-XvObA_wnNAT-uhtns0bPrcRD-kiAOKeFsw&oe=690A818A",
+      "imageHint": "university building"
+    },
+    {
+      "id": "vj-loop-1",
+      "description": "Abstract visual loop for background.",
+      "imageUrl": "https://images.unsplash.com/photo-1598284188448-687f396b27e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGdyZWVuJTIwbGlnaHRzfGVufDB8fHx8MTc2MjAwMzY4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract green lights"
+    },
+    {
+      "id": "vj-loop-2",
+      "description": "Abstract visual loop for background.",
+      "imageUrl": "https://images.unsplash.com/photo-1533331649638-3454b50d9951?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNXx8YWJzdHJhY3QlMjBjeWFuJTIwbGlnaHRzfGVufDB8fHx8MTc2MjA1NTk4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract cyan lights"
+    },
+    {
+      "id": "philippines-map",
+      "description": "Map of the Philippines with a transparent background.",
+      "imageUrl": "/phmap.png",
+      "imageHint": "philippines map transparent"
+    }
+  ]
+}
